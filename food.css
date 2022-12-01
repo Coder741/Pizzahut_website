@@ -84,3 +84,10 @@ header{
     padding: 10px 20px;
     border-radius: 8px;
 }
+.menu a:hover{
+    background: brown;
+    border-radius: 8px;
+    color: white;
+
+}
+
